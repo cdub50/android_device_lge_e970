@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo cm_e970-userdebug
+add_lunch_combo liquid_e970-userdebug
